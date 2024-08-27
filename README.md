@@ -2,4 +2,5 @@
 **RAR Extractor** Unlock the full potential of your compressed files with RAR File Extractor, the ultimate tool for managing and extracting RAR archives. Whether you’re dealing with personal documents, downloaded files, or important data, our app makes it easy to handle RAR files quickly and efficiently.
 
 **Download iOS Application**
+https://apps.apple.com/in/app/rar-file-extractor/id6639616527?mt=12
 
